@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "masjid_annuur",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Nama": "Masjid An-Nuur Kotagede", "Foto": "an-nuur.jpg", "Alamat": "Jl. Pelemsari No. 105 RT 03 RW 01, Prenggan, Kotagede, Yogyakarta", "IG": "https://www.instagram.com/annuur.kotagede/", "Email": "masjidannuurkotagede@gmail.com", "YT": "http://www.youtube.com/@masjidannuurkotagede3108", "Kontak": "Didik (081328781680)", "Takmir": "Drs. H. Aris Hidayat, Apt." }, "geometry": { "type": "Point", "coordinates": [ 110.395891701424034, -7.814815725116768 ] } }
+]
+}
