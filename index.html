@@ -486,7 +486,7 @@ var batasannuurline = L.geoJson(null, {
 
         }
 
-        var layerControl = L.control.layers(baseMaps, Layers, { collapsed: false }).addTo(map);
+        var layerControl = L.control.layers(baseMaps, Layers, { collapsed: true }).addTo(map);
 
         function popUp(f, l) {
             var out = [];
